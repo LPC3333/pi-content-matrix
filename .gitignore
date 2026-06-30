@@ -1,0 +1,13 @@
+.pi/temp/
+node_modules/
+.git/
+*备份*
+.bak.*
+*.bak
+%TEMP%*
+:TEMP*
+*webbridge-req*
+*.log
+*.png
+*.jpg
+.browser-data/

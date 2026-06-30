@@ -1,0 +1,18 @@
+{
+  "_schema": "dropshipping-to-content-pipeline",
+  "_description": "由 pi-dropshipping-cluster 的 learner agent 写入，Content Matrix 集群的 orchestrator 读取",
+  "updatedAt": "",
+  "products": [
+    {
+      "name": "",
+      "offerId": "",
+      "taobaoId": "",
+      "price1688": 0,
+      "coreSellingPoints": [],
+      "scenes": [],
+      "targetAudience": [],
+      "styleTags": [],
+      "contentAngle": ""
+    }
+  ]
+}
